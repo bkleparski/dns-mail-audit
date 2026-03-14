@@ -1,0 +1,8 @@
+# Lista domen do audytu — jedna domena na linię
+# Linie zaczynające się od # są ignorowane
+#
+# Przykład użycia:
+#   python mail_dns_audit.py -f domains.txt
+#   python mail_dns_audit.py -f domains.txt -o ./raporty
+
+ravnet.pl
